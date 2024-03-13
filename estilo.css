@@ -34,12 +34,14 @@ h1 {
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 25px;
     font-family: Verdana;
     color: red;
     background-color: black;
-    margin-top: 35px;
-    margin-bottom: 35px;
+    border: 2px solid black;
+    padding: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 h3 {
