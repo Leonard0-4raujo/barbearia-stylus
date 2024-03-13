@@ -48,8 +48,8 @@ h3 {
     color: black;
     padding: 10px 0;
     margin-top: 30px;
-    border-top: 5px solid #606062;
-    border-bottom: 5px solid #606062;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
 }
 
 p {
@@ -57,7 +57,7 @@ p {
     font-family: Verdana;
     text-align: justify;
     line-height: 32px;
-    color: #616163;
+    color: black;
     margin-bottom: 35px;
 }
 
